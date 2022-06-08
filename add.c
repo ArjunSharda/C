@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-   int var1;
+  int var1;
   int var2;
   var1 = 5;
   var2 = 10;
